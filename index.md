@@ -4,8 +4,8 @@ Mendelry自動ダウンロード用のページになります。
 [mendelry web importerでの論文データ取得方法](https://guides.lib.kyushu-u.ac.jp/referencemanagementtool/webimporter)
 
 ## Exsample
-- [ReferenceTester](ReferenceTester.md)
+- [ReferenceTester](ReferenceTester.html)
 
 ## ReferenceManeger
 ### Dermanyssus gallinae
-- [Development of a small-scale in vivo system for poultry red mite drug testing](./Manuscript/DevelopmentSmallScaleSystemPRM.md)  
+- [Development of a small-scale in vivo system for poultry red mite drug testing](./Manuscript/DevelopmentSmallScaleSystemPRM.html)  
