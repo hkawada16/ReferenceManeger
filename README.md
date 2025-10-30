@@ -33,9 +33,9 @@ python3 -m pip install biopython
 作成者はGitHub上にアップロードし、web上に公開することで一括インストールしてます。  
 
 ### GitHubからweb上に公開する方法
-1. GitHubにログイン
-👉 https://github.com にアクセスしてログイン。
-まだアカウントがない場合は無料で作成できます。
+1. GitHubにログイン  
+   👉 https://github.com にアクセスしてログイン。  
+   まだアカウントがない場合は無料で作成できます。
 
 ⸻
 
@@ -54,7 +54,7 @@ python3 -m pip install biopython
 	2.	ファイル選択画面が出るので、myref.html をドラッグ＆ドロップ
 	3.	ページ下部の「Commit changes」ボタンをクリックして保存
 
-→ これでHTMLがGitHubにアップロードされました。
+    → これでHTMLがGitHubにアップロードされました。
 
 ⸻
 
