@@ -2,7 +2,7 @@
 はじめにREADMEをご覧ください。
 
 ## README
-- [README](README.md)
+- [README](./Manuscript/README.html)
 - [ReferenceTester](ReferenceTester.html)
 
 ## ReferenceManeger
